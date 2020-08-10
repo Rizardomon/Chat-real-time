@@ -1,6 +1,6 @@
 # Chat em tempo real
 
-##Desnvolvido com:
+## Desnvolvido com:
  - Node.js
  - Socket.io
  
